@@ -1,4 +1,4 @@
 # Table of contents
 
 * [README.md](README.md)
-* [SPLUNK-ENTERPRISE-DEPLOY](splunk-enterprise-deploy.md)
+* [SPLUNK-DEPLOY-ENTERPRISE](splunk-deploy-enterprise.md)
